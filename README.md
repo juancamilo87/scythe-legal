@@ -13,7 +13,7 @@ Public legal pages for apps published under **Scythe** (privacy policies, etc.).
 
 Paste the app URL into Play Console → App content → Privacy policy.
 
-When migrating from [cloudless-legal](https://github.com/juancamilo87/cloudless-legal), update the Play listing to the Cloudless URL above, then archive/delete the old repo.
+Migrated from [cloudless-legal](https://github.com/juancamilo87/cloudless-legal). Update Play (and App Store) to the Cloudless URL above if still pointing at the old host, then archive/delete `cloudless-legal`.
 
 ## Adding another app
 
